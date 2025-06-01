@@ -1,0 +1,34 @@
+A "story" is a narrative, whether fictional or non-fictional, that tells a sequence of events or experiences. It can be presented through various mediums like writing, speech, images, or a combination of these. Stories are used for entertainment, education, cultural preservation, and more.   
+It displays all the Git configuration settings currently in effect for your environment. This includes:
+
+User name and email
+
+Editor preference
+
+Merge tool
+
+Credential helper
+
+Aliases
+
+Remote URLs
+
+Any custom Git settings
+
+It displays all the Git configuration settings currently in effect for your environment. This includes:
+
+User name and email
+
+Editor preference
+
+Merge tool
+
+Credential helper
+
+Aliases
+
+Remote URLs
+
+Any custom Git settings
+
+ 

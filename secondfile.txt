@@ -1,0 +1,33 @@
+It displays all the Git configuration settings currently in effect for your environment. This includes:
+
+User name and email
+
+Editor preference
+
+Merge tool
+
+Credential helper
+
+Aliases
+
+Remote URLs
+
+Any custom Git settings
+
+Classic stories like Rapunzel or Snow White are examples of fictional narratives passed down through generations. It displays all the Git configuration settings currently in effect for your environment. This includes:
+
+User name and email
+
+Editor preference
+
+Merge tool
+
+Credential helper
+
+Aliases
+
+Remote URLs
+
+Any custom Git settings
+
+
